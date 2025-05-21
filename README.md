@@ -1,0 +1,1 @@
+# Pratik_Metot_Uygulamamiz
