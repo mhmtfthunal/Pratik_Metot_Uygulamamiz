@@ -11,7 +11,7 @@ Bu proje, C# programlama dilinde temel metot kullanımını öğrenmek için haz
 * Parametresiz `void` metot.
 * Sevilen bir şarkının sözlerini ekrana yazdırır.
 
-```
+---
 
 ### 2. 🔢 Rastgele Sayı & Mod Alma
 
