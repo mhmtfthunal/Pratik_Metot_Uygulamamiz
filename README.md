@@ -47,6 +47,6 @@ Bu proje, C# programlama dilinde temel metot kullanımını öğrenmek için haz
 
 1. Visual Studio ile C# Console App oluşturun.
 2. Yukarıdaki kodları `Program.cs` içine yapıştırın.
-3. F5 ile çalıştırın veya terminalden:
+3. F5 ile çalıştırın
 
 ---
